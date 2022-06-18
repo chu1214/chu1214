@@ -23,14 +23,17 @@ Learning Skill<br><br>
  <br>
  <br>
  <br>
-Algorithm<br><br> 
+Algorithm<br><br>
+  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214)](https://solved.ac/chu1214)
-<br>
-  <br>
+  
   <br>
   Github<br><br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chu1214&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
   <br>
-  <br>
-[![chu1214's github stats](https://github-readme-stats.vercel.app/api?username=chu1214)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![chu1214's github stats](https://github-readme-stats.vercel.app/api?username=chu1214&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
