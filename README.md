@@ -17,27 +17,16 @@
   <img src="https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=solidity&logoColor=white"> 
   <img src="https://img.shields.io/badge/unity-444444?style=for-the-badge&logo=solidity&logoColor=white"> 
-  
-<br>
-<br>
-<br>
-📖 Learning Skill<br><br>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
- <br>
- <br>
  <br>
  <br>
   <br>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chu1214&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   
-  <br>
   
 [![chu1214's github stats](https://github-readme-stats.vercel.app/api?username=chu1214&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   
-  <br>
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214)](https://solved.ac/chu1214)
   
